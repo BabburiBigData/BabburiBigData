@@ -7,5 +7,5 @@
 - 💬 Ask me about from where you can get resources for learning Big Data
 - 📫 How to reach me: bsaivardhan7@gmail.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: I created this repository to daily track and document the things that i practise which you may follow inorder to learn big data.
+- ⚡ Fun fact: I created this repository to showcase my projects and todaily track and document the things that i practise which you may follow inorder to learn big    data.
 
